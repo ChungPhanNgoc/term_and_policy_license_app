@@ -1,0 +1,1 @@
+# term_and_policy_license_app
