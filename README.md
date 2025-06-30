@@ -1,13 +1,7 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-  <meta charset="UTF-8">
-  <title>Điều khoản sử dụng - GPLX 2025</title>
-  <style>
-    body { font-family: sans-serif; max-width: 800px; margin: auto; padding: 20px; line-height: 1.6; }
-    h1 { color: #1a73e8; }
-    h2 { margin-top: 30px; }
-  </style>
+  Điều khoản sử dụng - GPLX 2025
 </head>
 <body>
   <h1>ĐIỀU KHOẢN VÀ ĐIỀU KIỆN SỬ DỤNG</h1>
