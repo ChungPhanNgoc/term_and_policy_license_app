@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-  Điều khoản sử dụng - GPLX 2025
-</head>
+ Điều khoản sử dụng - GPLX 2025
 <body>
   <h1>ĐIỀU KHOẢN VÀ ĐIỀU KIỆN SỬ DỤNG</h1>
   <p>Các điều khoản và điều kiện sau đây áp dụng cho ứng dụng <strong>GPLX 2025</strong>:</p>
